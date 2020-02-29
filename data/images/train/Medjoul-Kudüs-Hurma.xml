@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Medjoul-Kudüs-Hurma.jpg</filename>
+	<path>C:\Users\Özge Aslan\Desktop\data\images\train\Medjoul-Kudüs-Hurma.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>302</width>
+		<height>302</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hurmaa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>66</ymin>
+			<xmax>141</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

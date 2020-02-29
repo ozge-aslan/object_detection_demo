@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>date-fruit-hurma-1.jpg</filename>
+	<path>C:\Users\Özge Aslan\Desktop\data\images\train\date-fruit-hurma-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hurmaa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>240</ymin>
+			<xmax>329</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>her-gun-3-hurma-yerseniz-h1573584064-90fec1.jpg</filename>
+	<path>C:\Users\Özge Aslan\Desktop\data\images\train\her-gun-3-hurma-yerseniz-h1573584064-90fec1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>313</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hurmaa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>172</ymin>
+			<xmax>433</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

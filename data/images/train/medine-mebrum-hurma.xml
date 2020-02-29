@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>medine-mebrum-hurma.png</filename>
+	<path>C:\Users\Özge Aslan\Desktop\data\images\train\medine-mebrum-hurma.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>547</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hurmaa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>299</ymin>
+			<xmax>557</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>
